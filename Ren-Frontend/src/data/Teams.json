@@ -1,0 +1,142 @@
+{
+  "Technical Team": [
+    {
+      "title": "Akshat Bindal",
+      "description": "3rd Year IT",
+      "linkedin": "akshat-bindal-8677a2256/",
+      "mail": "biakshat31@gmail.com ",
+      "image": "/teams/akshat.webp"
+    },
+    {
+      "title": "Apeksh Gupta",
+      "description": "3rd Year CSE",
+      "linkedin": "apeksh-gupta/",
+      "mail": "apekshgupta00@gmail.com",
+      "image": "/teams/apeksh.webp"
+    },
+    {
+      "title": "Aryan Jain",
+      "description": "3rd Year CSE",
+      "linkedin": "aryan-jain-11o/",
+      "mail": "aryannjain11@gmail.com ",
+      "image": "/teams/aryan.webp"
+    },
+    {
+      "title": "Yashpreet Singh Jagdev",
+      "description": "3rd Year IT",
+      "linkedin": "yashpreet-singh-jagdav-1751b0253?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+      "mail": "yashpreet369@gmail.com",
+      "image": "/teams/yashpreet_1.webp"
+    },
+    {
+      "title": "Karthik Dayama",
+      "description": "2nd Year CS-AI",
+      "linkedin": "karthikdayama?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+      "mail": "karthikdayama09@gmail.com",
+      "image": "/teams/karthik.webp"
+    },
+    {
+      "title": "Mohit Mathur",
+      "description": "2nd Year IT",
+      "linkedin": "mohit-mathur-69a783249/",
+      "mail": "mohit.dkv@gmail.com",
+      "image": "/teams/mohit.webp"
+    },
+    {
+      "title": "Devang Sharma",
+      "description": "2nd Year CSE",
+      "linkedin": "devang-sharma-0a41821ab?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app ",
+      "mail": "sharmadevang581@gmail.com ",
+      "image": "/teams/devang.webp"
+    },
+    {
+      "title": "Bhavya Bhardwaj",
+      "description": "2nd Year AIDS",
+      "mail": "bhardwajbhavya382@gmail.com",
+      "image": "/teams/bhavya.webp"
+    },
+    {
+      "title": "Dhruv Upadhaya",
+      "description": "2nd Year AIDS",
+      "linkedin": "dhruv-upadhyaya-a284ba286/",
+      "mail": "dhruvu3400@gmail.com",
+      "image": "/teams/dhruv.png"
+    },
+    {
+      "title": "Varad Gupta",
+      "description": "1st Year AIDS",
+      "linkedin": "varad-gupta-2a4286222?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+      "mail": "varadgupta.ai28@jecrc.ac.in",
+      "image": "/teams/varad_1.webp"
+    },
+    {
+      "title": "Ritik Kriplani",
+      "description": "1st Year AIDS",
+      "linkedin": "ritik-kriplani-b0019b343?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+      "mail": "ritikkriplani08@gmail.com",
+      "image": "/teams/ritik.webp"
+    },
+    {
+      "title": "Vanshika Jain",
+      "description": "1st Year CSE",
+      "linkedin": "vanshika-jain-91a998334?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
+      "mail": "vanshikajain.cse28@jecrc.ac.in",
+      "image": "/teams/vanshika_1.webp"
+    },
+    {
+      "title": "Advyeta Goyal",
+      "description": "1st Year IT",
+      "linkedin": "advyetagoyal/",
+      "mail": "advyetagoyal@gmail.com",
+      "image": "/teams/advyeta.png"
+    }
+  ],
+
+
+
+
+  "Graphics Team": [
+    {
+      "title": "Latiksha Prajapat",
+      "description": "3rd Year AIDS",
+      "linkedin": "latiksha-prajapat-213364256",
+      "mail": "latikshaprajapat.aids26@jecrc.ac.in",
+      "image": "/teams/latiksha.webp"
+    },
+    {
+      "title": "Vikram Saini",
+      "description": "3rd Year CSE",
+      "linkedin": "vikram-saini-5a963a255",
+      "mail": "vikramsaini.cse26@jecrc.ac.in",
+      "image": "/teams/vikram.png"
+    },
+    {
+      "title": "Anjali Lalwani",
+      "description": "3rd Year CSAI",
+      "linkedin": "anjali-lalwani-702a7924a",
+      "mail": "anjalilalwani442@gmail.com ",
+      "image": "/teams/anjali.webp"
+    },
+    {
+      "title": "Lakshay Goyal",
+      "description": "2nd Year AIDS",
+      "linkedin": "lakshya-goyal-64a124200",
+      "mail": "Lakshyagoyal.ajmer@gmail.com",
+      "image": "/teams/lakshya.webp"
+    },
+    {
+      "title": "Akshita Pandey",
+      "description": "2nd Year ECE",
+      "linkedin": "akshita-pandey-489701334",
+      "mail": "akshitapandey.ece27@jecrc.ac.in",
+      "image": "/teams/akshita.webp"
+    },
+    {
+      "title": "Nandini Verma",
+      "description": "2nd Year CSE",
+      "linkedin": "nandini-verma-834690292",
+      "mail": "nandiniverma230804@gmail.com",
+      "image": "/teams/nandini.webp"
+    }
+  ]
+}

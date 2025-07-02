@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Silkscreen&display=swap');
+
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+
+::-webkit-scrollbar {
+  width: 0;
+  height: 0;
+  display: none;
+}
+
+html {
+  scrollbar-width: thin;
+}
+
+
+body {
+  overflow-x: hidden; 
+  overflow-y: auto;  
+}
+
+
+:root {
+  --neon-green: #00ff7f;
+}
+
+.border-neon-green {
+  border-color: var(--neon-green);
+}
+
+.text-neon-green {
+  color: var(--neon-green);
+}
+
+.shadow-neon {
+  box-shadow: 0 0 5px var(--neon-green), 0 0 15px var(--neon-green);
+}
+
+.font-silkscreen {
+  font-family: 'Silkscreen', sans-serif;
+}
+
+@media (max-width: 768px) {
+  html, body {
+    overflow-x: hidden;
+    scroll-behavior: smooth;
+  }
+}
+
+
+.particle {
+  position: absolute;
+  width: 0.25rem;
+  height: 0.25rem;
+  border-radius: 9999px;
+  background-color: rgb(168 85 247 / 0.5);
+}
+
+/* Particle movement variations */
+.particle:nth-child(1) { --tx: 100px; --ty: -100px; }
+.particle:nth-child(2) { --tx: -150px; --ty: 150px; animation-delay: -2s; }
+.particle:nth-child(3) { --tx: 200px; --ty: 200px; animation-delay: -4s; }
+.particle:nth-child(4) { --tx: -120px; --ty: -180px; animation-delay: -6s; }
+
+

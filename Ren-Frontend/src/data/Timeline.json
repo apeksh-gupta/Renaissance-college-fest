@@ -1,0 +1,339 @@
+{
+  "Day 1": [
+    {
+      "title": "Inaugral Ceremony",
+      "content": "Event starts at 9:00 AM - 10:30 AM",
+      "location": "A-Block Quadrangle"
+    },
+    {
+      "title": "Gully Cricket",
+      "content": "Event starts at 9:00 AM - 1:00 PM",
+      "location": "BH-2 Lane"
+    },
+    {
+      "title": "Tug of War",
+      "content": "Event starts at 10:00 AM - 3:00 PM",
+      "location": "C Block Ground"
+    },
+    {
+      "title": "Knowledge Knockout",
+      "content": "Event starts at 10:00 AM - 12:00 PM",
+      "location": "Seminar Hall 501"
+    },
+    {
+      "title": "Hardware Bites",
+      "content": "Event starts at 10:00 AM - 2:00 PM",
+      "location": "B-Block Top Floor Premises"
+    },
+    {
+      "title": "Formula Zero",
+      "content": "Event starts at 10:00 AM - 3:00 PM",
+      "location": "BH-2 Pathway"
+    },
+    {
+      "title": "Sarega",
+      "content": "Event starts at 11:00 AM - 1:00 PM",
+      "location": "D-Block Audi"
+    },
+    {
+      "title": "Tech Probe",
+      "content": "Event starts at 11:00 AM - 1:00 PM",
+      "location": "IBM Lab"
+    },
+    {
+      "title": "Dexterity",
+      "content": "Event starts at 11:00 AM - 2:00 PM",
+      "location": "C-Block Ground Floor"
+    },
+    {
+      "title": "Campus Kart Clash",
+      "content": "Roadshow starts at 11:00 AM - 3:00 PM",
+      "location": "D-Block to C-Block Road"
+    },
+    {
+      "title": "Masterchef Challenge",
+      "content": "Event starts at 12:00 PM - 2:00 PM",
+      "location": "A-Block Quadrangle"
+    },
+    {
+      "title": "LAN Gaming",
+      "content": "Event starts at 12:30 PM - 3:00 PM",
+      "location": "Seminar Hall C-Block"
+    },
+    {
+      "title": "Blind Code",
+      "content": "Event starts at 1:00 PM - 3:00 PM",
+      "location": "CT-03, CT-18"
+    },
+    
+    {
+      "title": "IPL Auction",
+      "content": "Event starts at 2:00 PM - 4:00 PM",
+      "location": "C-Block Class"
+    },
+    {
+      "title": "Rockathon",
+      "content": "Event starts at 2:00 PM - 5:00 PM",
+      "location": "Main Stage"
+    },
+    {
+      "title": "Cad Darshan",
+      "content": "Event starts at 2:00 PM - 4:00 PM",
+      "location": "CP-19,20"
+    },
+    {
+      "title": "ScreenFlex",
+      "content": "Event starts at 2:30 PM - 3:30 PM",
+      "location": "DT-07,DT-09"
+    },
+    {
+      "title": "RapZap",
+      "content": "Event starts at 5:00 PM - 6:00 PM",
+      "location": "Main Stage"
+    },
+    {
+      "title": "DJ War",
+      "content": "Event starts at 6:15 PM - 7:45 PM",
+      "location": "Main Stage"
+    },
+    {
+      "title": "Guest DJ",
+      "content": "Event starts at 8:00 PM - 10:00 PM",
+      "location": "Main Stage"
+    }
+  ],
+
+
+
+  "Day 2": [
+    {
+      "title": "Beat The Beats",
+      "content": "Event starts from 9:00 AM to 11:30 AM",
+      "location": "D-Block Audi"
+    },
+    {
+      "title": "Code Olympoics",
+      "content": "Event starts from 9:00 AM to 12:00 PM",
+      "location": "IBM Lab"
+    },
+    {
+      "title": "Tech Hunt",
+      "content": "Event starts from 9:00 AM to 12:00 PM",
+      "location": "BLG-13"
+    },
+    {
+      "title": "DSA Battle Ground",
+      "content": "Event starts from 10:00 AM - 1:00 PM",
+      "location": "DT-07, DT-09"
+    },
+    {
+      "title": "Robo Soccer",
+      "content": "Event starts from 10:00 AM to 3:00 PM",
+      "location": "B-Block Front"
+    },
+    {
+      "title": "Half Court Basketball",
+      "content": "Event starts from 10:00 AM to 1:00 PM",
+      "location": "Basketball Court"
+    },
+    {
+      "title": "Footloose",
+      "content": "Event starts from 10:00 AM to 2:30 PM",
+      "location": "A-Block Quadrangle"
+    },
+    {
+      "title": "Slowest Roller Coaster with Paper",
+      "content": "Event starts from 11:00 AM to 01:00 PM",
+      "location": "C-Block Corridor"
+    },
+    {
+      "title": "Relay Race",
+      "content": "Event starts from 11:00 AM to 12:30 PM",
+      "location": "C-Block to A Block"
+    },
+    {
+      "title":"3D Mania",
+      "content":"Event starts from 11:00 AM to 1:00 PM",
+      "location":"DF-08"
+    },
+    {
+      "title": "Hunar",
+      "content": "Event starts from 11:30 AM to 1:30 PM",
+      "location": "D-Block Audi"
+    },
+    {
+      "title": "Arm Wrestling",
+      "content": "Event starts from 12:00 PM to 3:00 PM",
+      "location": "Round Table"
+    },
+    {
+      "title": "Programmer's Playground",
+      "content": "Event starts from 12:00 PM to 2:00 PM",
+      "location": "Conf. Hall D-Block"
+    },
+    {
+      "title": "Technical Poster Making Competition",
+      "content": "Event starts from 12:00 PM to 2:00 PM",
+      "location": "BLG-06"
+    },
+    {
+      "title": "Puzzle Mania",
+      "content": "Event starts from 12:30 PM to 2:00 PM",
+      "location": "IBM Labs"
+    },
+    {
+      "title": "3 Leg Race",
+      "content": "Event starts from 1:00 PM to 3:00 PM",
+      "location": "C Block Ground"
+    },
+    {
+      "title": "Chess",
+      "content": "Event starts from 1:00 PM to 2:30 PM",
+      "location": "DF-03"
+    },
+    {
+      "title": "Sac Race",
+      "content": "Event starts from 1:30 PM to 3:30 PM",
+      "location": "Central Lawn"
+    },
+    {
+      "title": "Web Crafters",
+      "content": "Event starts from 2:00 PM - 4:00 PM",
+      "location": "CT-18, CS-12"
+    },
+    {
+      "title": "JECRC Technoads",
+      "content": "Event starts from 2:00 PM to 5:00 PM",
+      "location": "C-Block Computer Lab"
+    },
+    {
+      "title": "Battle Mania",
+      "content": "Event starts from 2:30 PM to 5:00 PM",
+      "location": "A-Block Quadrangle"
+    },
+    {
+      "title": "Adaa",
+      "content": "Event starts from 5:30 PM to 7:30 PM",
+      "location": "Main Stage"
+    },
+    {
+      "title": "Guest Band",
+      "content": "Event starts from 8:00 PM to 10:00 PM",
+      "location": "Main Stage"
+    }
+  ],
+
+  "Day 3": [
+    {
+      "title": "Creative Pixels",
+      "content": "Event starts from 12:00 PM to 3:00 PM",
+      "location": "IBM Lab"
+    },
+    {
+      "title": "Technocrazy",
+      "content": "Event starts from 9:00 AM to 11:00 AM",
+      "location": "BLG-14"
+    },
+    {
+      "title": "Navras",
+      "content": "Event starts from 9:00 AM to 11:00 AM",
+      "location": "A-Block Audi"
+    },
+    {
+      "title": "Brain Quest",
+      "content": "Event starts from 9:30 AM to 12:30 PM",
+      "location": "DT-01 & DT-03"
+    },
+    {
+      "title": "Best Out Of Waste",
+      "content": "Event starts from 9:30 AM to 12:30 PM",
+      "location": "C-Block Ground Floor"
+    },
+    {
+      "title": "Resin O'clock",
+      "content": "Event starts from 10:00 AM to 12:00 PM",
+      "location": "D-Block"
+    },
+    {
+      "title": "Game of Drones",
+      "content": "Event starts from 11:00 AM to 4:00 PM",
+      "location": "GH Lawn"
+    },
+    {
+      "title": "Situational Que",
+      "content": "Event starts from 11:00 AM to 1:00 PM",
+      "location": "Projector Room D-Block"
+    },
+    {
+      "title": "Kavya",
+      "content": "Event starts from 11:00 AM to 1:30 PM",
+      "location": "A-Block Audi"
+    },
+    {
+      "title": "Beg Borrow Steal",
+      "content": "Event starts from 11:30 AM to 1:00 PM",
+      "location": "C-Block Stairs"
+    },
+    {
+      "title": "Treasure Hunt",
+      "content": "Event starts from 11:30 AM to 2:00 PM",
+      "location": "D-Block Stairs"
+    },
+    {
+      "title": "Drishyam: The Poster Presentation",
+      "content": "Event starts from 12:00 PM to 2:00 PM",
+      "location": "C-Block Corridor"
+    },
+    
+    {
+      "title": "Subito",
+      "content": "Event starts from 12:00 PM to 3:00 PM",
+      "location": "CP-13"
+    },
+    {
+      "title": "Robo Tug of War",
+      "content": "Event starts from 12:00 PM to 5:00 PM",
+      "location": "B-Block Front"
+    },
+    {
+      "title": "Shor Bazzar",
+      "content": "Event starts from 1:00 PM to 4:00 PM",
+      "location": "A-Block Quadrangle"
+    },
+    {
+      "title": "Electroquizzer",
+      "content": "Event starts from 1:00 PM to 2:00 PM",
+      "location": "BLG-06"
+    },
+    {
+      "title": "Tech Spectrum",
+      "content": "Event starts from 1:00 PM to 3:00 PM",
+      "location": "DT-07, DT-09"
+    },
+    {
+      "title": "Virtual Vision",
+      "content": "Event starts from 1:30 PM to 2:30 PM",
+      "location": "Conf. Hall D-Block"
+    },
+    {
+      "title": "Flick (Short Film)",
+      "content": "Event starts from 1:30 PM to 4:30 PM",
+      "location": "CT-03, CT-18"
+    },
+    {
+      "title": "Game of Cinema",
+      "content": "Event starts from 3:00 PM to 5:00 PM",
+      "location": "Seminar Hall C Block 401"
+    },
+    {
+      "title": "Bootstrapping",
+      "content": "Event starts from 5:30 PM to 7:30 PM",
+      "location": "Main Stage"
+    },
+    {
+      "title": "Celebrity Night",
+      "content": "Event starts from 8:00 PM to 10:00 PM",
+      "location": "Main Stage"
+    }
+  ]
+}

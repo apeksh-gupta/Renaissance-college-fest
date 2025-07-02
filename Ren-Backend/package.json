@@ -1,0 +1,29 @@
+{
+  "name": "renaissance-backend",
+  "version": "1.0.0",
+  "description": "Backend for Renaissance Event Registration",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "dependencies": {
+    "@aws-sdk/client-ses": "^3.744.0",
+    "bcrypt": "^5.1.0",
+    "canvas": "^2.11.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.0",
+    "mongoose": "^7.0.0",
+    "nodemailer": "^6.8.0",
+    "sharp": "^0.33.5"
+  },
+  "devDependencies": {
+    "eslint": "^8.15.0",
+    "nodemon": "^3.1.9"
+  },
+  "author": "Akshat Bindal",
+  "license": "ISC"
+}

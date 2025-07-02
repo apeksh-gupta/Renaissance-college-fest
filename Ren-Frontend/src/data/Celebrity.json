@@ -1,0 +1,20 @@
+[
+  {
+    "id": "card-1",
+    "frontText": "DAY 1",
+    "backSrc": "/celebrity/1.jpg",
+    "backAlt": "Card Back Image 1"
+  },
+  {
+    "id": "card-2",
+    "frontText": "DAY 2",
+    "backSrc": "/celebrity/2.jpg",
+    "backAlt": "Card Back Image 2"
+  },
+  {
+    "id": "card-3",
+    "frontText": "DAY 3",
+    "backSrc": "/celebrity/3.jpg",
+    "backAlt": "Card Back Image 3"
+  }
+]
