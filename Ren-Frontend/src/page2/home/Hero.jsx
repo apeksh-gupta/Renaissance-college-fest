@@ -1,55 +1,7 @@
-// import React, { useEffect, useState, useRef } from "react";
-// import { usePreloader } from "../../context/PreloaderContext";
-
-// function Hero() {
-//   const { showHero } = usePreloader();
-//   const [isMobile, setIsMobile] = useState(false);
-//   const videoRef = useRef(null);
-
-//   useEffect(() => {
-//     // Detect screen size
-//     const checkScreenSize = () => {
-//       setIsMobile(window.innerWidth <= 640);
-//     };
-
-//     checkScreenSize();
-//     window.addEventListener("resize", checkScreenSize);
-//     return () => window.removeEventListener("resize", checkScreenSize);
-//   }, []);
-
-//   useEffect(() => {
-//     if (videoRef.current) {
-//       videoRef.current.load(); // Ensure the video starts loading
-//     }
-//   }, []);
-
-//   return (
-//     <>
-//       {showHero && (
-//         <section className="relative h-screen w-screen overflow-hidden">
-//           <video
-//             ref={videoRef}
-//             src={isMobile ? "/home/phoneloop.webm" : "/home/robotloop1.mp4"}
-//             type={isMobile ? "video/webm" : "video/mp4"} // ✅ Corrected format
-//             autoPlay
-//             loop
-//             muted
-//             playsInline
-//             className="absolute top-0 left-0 w-full h-full object-cover"
-//           />
-//         </section>
-//       )}
-//     </>
-//   );
-// }
-
-// export default Hero;
-
-
 import React, { useEffect, useState, useRef } from "react";
 import { usePreloader } from "../../context/PreloaderContext";
 import { motion } from "framer-motion";
-import ReactLenis from "@studio-freight/react-lenis";
+import Lenis from "lenis";
 
 function Hero() {
   const { showHero } = usePreloader();
@@ -58,7 +10,6 @@ function Hero() {
   const videoRef = useRef(null);
 
   useEffect(() => {
-    // Detect screen size
     const checkScreenSize = () => {
       setIsMobile(window.innerWidth <= 640);
     };
@@ -75,10 +26,19 @@ function Hero() {
     }
   }, []);
 
-  return (
+  // Initialize Lenis scroll
+  useEffect(() => {
+    const lenis = new Lenis();
 
+    function raf(time) {
+      lenis.raf(time);
+      requestAnimationFrame(raf);
+    }
+    requestAnimationFrame(raf);
+  }, []);
+
+  return (
     <div className="relative w-full h-screen">
-    <ReactLenis root>
       {showHero && (
         <motion.section
           initial={{ opacity: 0 }}
@@ -98,12 +58,7 @@ function Hero() {
           />
         </motion.section>
       )}
-    </ReactLenis>
-
-
-
     </div>
-
   );
 }
 

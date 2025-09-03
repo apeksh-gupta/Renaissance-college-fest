@@ -33,7 +33,7 @@ const App = () => {
             <ScrollTop />
             <Routes>
               <Route path="/" element={<HomeLayout />} />
-              <Route path="/about" element={<AboutPage />} />
+              <Route path="/about" element={<AboutPage   />} />
               <Route path="/events" element={<Events />} />
               <Route path="/teams" element={<Teams />} />
               <Route path="/itinerary" element={<Itinerary />} />
@@ -49,24 +49,7 @@ const App = () => {
         </>
       )}
     </div>
-  //   <>
-  //   <div className="relative">
-  //     <Cursor />
-  //     <Particles />
-  //     <Navbar />
-  //     <ScrollTop />
-  //     <Routes>
-  //       <Route path="/" element={<HomeLayout />} />
-  //       <Route path="/about" element={<AboutPage />} />
-  //       <Route path="/events" element={<Events />} />
-  //       <Route path="/teams" element={<Teams />} />
-  //       <Route path="/itinerary" element={<Itinerary />} />
-  //       <Route path="/gallery" element={<Gallery />} />
-  //     </Routes>
-  //     <Footer />
-  //     <Rena />
-  //   </div>
-  // </>
+
   );
 };
 
