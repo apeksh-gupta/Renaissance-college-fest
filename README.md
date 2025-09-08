@@ -11,8 +11,8 @@ The Renaissance Fest Website is a dynamic and interactive platform built to show
 📱 Responsive Design – Mobile-first design, works seamlessly across devices  
 
 ## 🚀 Tech Stack
-Frontend: React.js / HTML5 / CSS3 / JavaScript
-Styling: Tailwind CSS / Bootstrap / Custom CSS
-Backend: Node.js + Express.js
-Database: MongoDB (for registrations & event management)
+Frontend: React.js 
+Styling: Tailwind CSS  
+Backend: Node.js + Express.js  
+Database: MongoDB (for registrations & event management)  
 
